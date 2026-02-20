@@ -28,7 +28,7 @@ require (
 	github.com/cenkalti/backoff/v5 v5.0.2
 	github.com/civo/civogo v0.3.98
 	github.com/cloudflare/cloudflare-go v0.115.0
-	github.com/cloudfoundry-community/go-cfclient v0.0.0-20190201205600-f136f9222381
+	github.com/cloudfoundry-community/go-cfclient v0.0.0-20220930021109-9c4e6c59ccf1
 	github.com/datawire/ambassador v1.12.4
 	github.com/denverdino/aliyungo v0.0.0-20230411124812-ab98a9173ace
 	github.com/digitalocean/godo v1.142.0
